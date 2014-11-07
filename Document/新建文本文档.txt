@@ -1,1 +1,6 @@
-nidede= ewd==dedwe 23456
+<<<<<<< HEAD
+nidede= ewd==dedwe 1234567 23456
+=======
+nidede= ewd==dedwe 
+
+>>>>>>> origin/master
